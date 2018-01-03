@@ -48,7 +48,7 @@ gradlew
 gradlew.bat
 
 .gitignore
-!app/
+!app/src
 build.gradle
 gradle.properties
 settings.gradle
