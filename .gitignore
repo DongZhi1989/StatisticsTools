@@ -43,7 +43,7 @@ captures/
 .idea/
 
 # Personal Files
-gradle/
+!gradle/
 gradlew
 gradlew.bat
 
