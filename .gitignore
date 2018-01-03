@@ -54,3 +54,5 @@ gradle.properties
 settings.gradle
 !/settings.gradle
 !/build.gradle
+!statistics/libs/
+!statistics/src/main/res/drawable/
