@@ -1,1 +1,1 @@
-include ':statistics', ':app'
+include ':statistics'

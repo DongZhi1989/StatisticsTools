@@ -48,7 +48,6 @@ captures/
 !gradlew.bat
 
 .gitignore
-!app/src
 build.gradle
 gradle.properties
 settings.gradle
