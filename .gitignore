@@ -44,8 +44,8 @@ captures/
 
 # Personal Files
 !gradle/
-gradlew
-gradlew.bat
+!gradlew
+!gradlew.bat
 
 .gitignore
 !app/src
